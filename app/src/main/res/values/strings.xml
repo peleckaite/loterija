@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loterija</string>
+    <string name="lucky_numbers_button_text">Generate lucky numbers!</string>
+    <string name="app_title">Lucky numbers generator</string>
+</resources>
